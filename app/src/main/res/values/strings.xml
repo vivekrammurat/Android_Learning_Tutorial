@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lecture Tutorial</string>
+    <string name="lecture1">1.Java Based Application Making(No XML)</string>
+    <string name="lecture2">2.Randomly Changes Bg Color(Hybrid Based)</string>
+    <string name="lecture3">"3.Widget Event Handling(INNER CLASS)"</string>
+    <string name="lecture4">"4.Android Widget All(Button And Clickable)"</string>
+    <string name="lecture5">"5.Spinner"</string>
+    <string name="lecture6">"6.List View"</string>
+    <string name="lecture7">"7.Animation (2D)"</string>
+    <string name="lecture8">"8.Display Your Phone Information"</string>
+
+    <string name="red">"RED"</string>
+    <string name="green">"Green"</string>
+    <string name="blue">"BLUE"</string>
+
+    <string-array name="dropvalue">
+        <item>Welcome</item>
+        <item>See You Again</item>
+        <item>Nice TO meet you</item>
+        <item>Have a Good Day...!</item>
+        <item>You Love me ... !</item>
+        <item>Thank you</item>
+    </string-array>
+</resources>
